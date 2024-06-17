@@ -1,0 +1,28 @@
+body{
+    color:rgb(248, 188, 255);
+    background-color: black;
+}
+.titulo-principal{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    color:rgb(255, 0, 136)
+}
+.titulo-secundario{
+    font-size: 24px;
+}
+.conteudo-titulo{
+    text-align:center;
+}
+.img{
+    width: 50%;
+}
+.conteudo-senha{
+    margin-top: 80px;
+    background-color:rgb(167, 25, 192);
+    padding: 24px;
+    border-radius: 30px;
+}
+.conteudo{
+    max-width: 1200px;
+    margin: 0 auto;
+}
